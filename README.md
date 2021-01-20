@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on sunyard
+
+🌱 I’m currently learning java and python 
+
+📫 How to reach me: https://nanjolono.github.io/blog/
+
+💬 Ask me about nanjolono@outlook.com
 <!--
 **nanjolono/nanjolono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
